@@ -1,0 +1,7 @@
+flask-mysqldb
+Flask-WTF
+passlib
+keras
+tensorflow
+numpy
+nltk
