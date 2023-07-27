@@ -41,6 +41,6 @@ Contributions to the Price Negotiator Ecommerce Chatbot System are welcome! If y
 If you have any questions or suggestions, feel free to contact the project maintainer:
 
 - Name: Sushang Agnihotri
-- Email: sushangagnihotri@example.com
+- Email: sushangagnihotri@gmail.com
 
 
